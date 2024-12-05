@@ -1,0 +1,15 @@
+{
+  "name": "scss-math",
+  "version": "1.0.0",
+  "description": "",
+  "author": {
+    "name": "Bellator",
+    "email": "bellator-support@proton.me"
+  },
+  "license": "GPL-3.0-only",
+  "homepage": "https://github.com/bellator-ven/scss-math",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bellator-ven/scss-math.git"
+  }
+}
